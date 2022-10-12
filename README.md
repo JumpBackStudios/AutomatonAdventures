@@ -1,4 +1,4 @@
-Automaton Adventures
+***Automaton Adventures***
 
 In this RPG from Jump Back Studios, players take the role of a brand new lab assistant at Madd Labbs. Working for Dr. M. Madd in the new automaton division of Madd Labbs, players are placed in charge of the field tests and maintenance required during the testing process for the various automatons developed at Madd Labbs. As their adventures continue, players will meet other Madd family members, tame and train pets, research technologies to help their automatons perform better, collect old comics, and maybe even conquer that giant dandelion that keeps showing up in the garden....probably not though.
 
@@ -18,6 +18,6 @@ Assistant Duties:
 - Exclamation points!
 
 To install:
-- Download the AA.zip package
+- Download the AutomatonAdventures.zip file
 - Unzip package to location of your choice
 - Run Automaton Adventures.exe
