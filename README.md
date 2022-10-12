@@ -17,7 +17,7 @@ Assistant Duties:
 - Other stuff and things!
 - Exclamation points!
 
-To install:
+To play:
 - Download the AutomatonAdventures.zip file
 - Unzip package to location of your choice
 - Run Automaton Adventures.exe
