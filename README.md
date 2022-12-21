@@ -27,7 +27,7 @@ Time Warp currency reward amount based on your current area.
 You can exchange gold wrenches for standard wrenches in the Madd Market, accessible from the bottom right corner shopping cart icon. Exchange amount is based on your highest lifetime area, reach higher areas to get more when you exchange, even right after you time warp!
 Exchanging 10 wrenches gives a 10% bonus to basic wrenches received compared to the other exchanges.
 
-For more information about whats coming in future updates, please check out our roadmap below.
+For more information about whats coming in future updates, please check out the rest of our roadmap below.
 
 ## Overview ##
 
