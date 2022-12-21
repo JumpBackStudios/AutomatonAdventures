@@ -1,3 +1,7 @@
+# Roadmap #
+
+## Intro ##
+
 __Automaton Adventures__ is an incremental progression RPG from Jump Back Studios. Players take the role of a new assistant at Madd Labbs, working as a field tester and maintenance specialist for the new automaton division.
 
 ## Install Instructions ##
@@ -5,7 +9,26 @@ __Automaton Adventures__ is an incremental progression RPG from Jump Back Studio
 - Download the AutomatonAdventures.zip file
 - Unzip to your location of choice
 - Run Automaton Adventures Prototype Edition.exe to play the game!
-  
+
+## How To Play ##
+
+You and your automatons will automatically attack the enemy. Once enough enemies are defeated, you will advance to a higher level area.
+
+To increase the amount of damage done to enemies:
+
+- click/tap on the robot icon in the bottom left corner to open the arsenal menu
+- click/tap on the upgrade button on the right side of the arsenal display
+- You can also unlock new automatons on this screen, after reaching certain milestone stages.
+
+You can use time warp to reset some of your progression and gain currency needed to unlock/upgrade inventions, which provide passive bonuses.
+Time warp resets your current area and your basic currency (wrenches). Your amount of gold wrenches and arsenal levels/unlocks are NOT reset.
+Time Warp currency reward amount based on your current area.
+
+You can exchange gold wrenches for standard wrenches in the Madd Market, accessible from the bottom right corner shopping cart icon. Exchange amount is based on your highest lifetime area, reach higher areas to get more when you exchange, even right after you time warp!
+Exchanging 10 wrenches gives a 10% bonus to basic wrenches received compared to the other exchanges.
+
+For more information about whats coming in future updates, please check out our roadmap below.
+
 ## Overview ##
 
 __Automaton Adventures: Prototype Edition__ (AA:PE) is the offline single player prototype for __Automaton Adventures__.
@@ -22,7 +45,7 @@ Win64 only.
 
 Mouse/tap controls only. Support for keyboard/gamepad controls will be added later.
 
-The basic game progression loop is playable.
+The basic game progression loop is playable, although many critical components are not yet available.
 
 All planned automatons are available in game and can be unlocked via area progression. There is no maximum level cap currently (this will change in the future).
 
@@ -36,7 +59,9 @@ Time warping resets your stage progress, clears your normal currency and provide
 
 Inventions can be purchased and upgraded. Many more of these will be added in future updates.
 
-There are basically no error messages in the game at the moment. Things that logically should cause errors to appear (like trying to buy something without the required amount of currency, for example) will just fail silently with no indication of what failed or why.
+## Known Issues ##
+
+There are basically no instructions, errors or confirmation messages in the game at the moment. Things that logically should cause a message to appear (like trying to buy something without the required amount of currency, for example) will just succeed/fail silently with no indication of what happened or why.
 
 ## Planned prototype updates ##
 
@@ -47,7 +72,7 @@ There are basically no error messages in the game at the moment. Things that log
 - Forge (for creating/upgrading parts)
 - Pets (special abilities and upgrades)
 - Orchards (secondary resource gathering area)
-- Add assistant customization options
+- Add assistant(player) customization options
 - Add pretty stuff to main game field
 - UI prettification
 - Story and tutorial bits
@@ -68,5 +93,5 @@ There are basically no error messages in the game at the moment. Things that log
 - Pvp
 - all the other stuff that should be listed here
   
-Click the following link to join the discussion about the game and our roadmap on the forums. 
+Click here to join the discussion about our roadmap on our forums.
 https://www.jumpbackstudios.com/forum/index.php
