@@ -93,5 +93,5 @@ There are basically no instructions, errors or confirmation messages in the game
 - Pvp
 - all the other stuff that should be listed here
   
-Click here to join the discussion about our roadmap on our forums.
+To join the discussions about the game and roadmap on the offical Jump Back Studios forums, click the following link.
 https://www.jumpbackstudios.com/forum/index.php
