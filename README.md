@@ -97,3 +97,6 @@ There are basically no instructions, errors or confirmation messages in the game
   
 To join the discussions about the game and roadmap on the official Jump Back Studios forums, click the following link.
 https://www.jumpbackstudios.com/forum/index.php
+
+Please visit the GoFundMe page for the game if you are interested in helping support additional development of this game!
+https://gofund.me/934fb530
