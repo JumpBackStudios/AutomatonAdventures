@@ -1,3 +1,9 @@
+# ** Patch Notes - v2023.4.  ** #
+
+Added background art for main game areas.
+Enemies and automatons now have graphical representations on the main game screen.
+Fixed a few minor bugs.
+
 # **Patch Notes - v2023.3.24.1** #
 
 This version should be compatible with saves from 23.1.24.1.
